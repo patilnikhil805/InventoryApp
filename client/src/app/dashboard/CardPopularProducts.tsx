@@ -3,6 +3,7 @@ import { ShoppingBag } from "lucide-react";
 import React from "react";
 // import Rating from "../(components)/Rating";
 import Image from "next/image";
+import Rating from "../(components)/Rating";
 
 const CardPopularProducts = () => {
   const { data: dashboardMetrics, isLoading } = useGetDashboardMetricsQuery();
@@ -24,7 +25,7 @@ const CardPopularProducts = () => {
                 className="flex items-center justify-between gap-3 px-5 py-7 border-b"
               >
                 <div className="flex items-center gap-3">
-                  
+                  <div>img</div>
                   <div className="flex flex-col justify-between gap-1">
                     <div className="font-bold text-gray-700">
                       {product.name}
@@ -34,7 +35,7 @@ const CardPopularProducts = () => {
                         ${product.price}
                       </span>
                       <span className="mx-2">|</span>
-                      {/* <Rating rating={product.rating || 0} /> */}
+                      <Rating rating={product.rating || 0} />
                     </div>
                   </div>
                 </div>
