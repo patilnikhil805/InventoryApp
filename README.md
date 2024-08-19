@@ -46,23 +46,23 @@ This project includes the following pages and features:
 ![Dashboard Screenshot](server/assets/dashboard-light.png)
 
 #### Inventory
-![Inventory Screenshot](assets/inventory_screenshot.jpg)
+![Inventory Screenshot](server/assets/inventory.png)
 
 #### Products
-![Products Screenshot](assets/products_screenshot.jpg)
+![Products Screenshot](server/assets/product.png)
 
 #### Users
-![Users Screenshot](assets/users_screenshot.jpg)
+![Users Screenshot](server/assets/users.png)
 
 #### Settings
-![Settings Screenshot](assets/settings_screenshot.jpg)
+![Settings Screenshot](server/assets/settings.png)
 
 #### Expenses
-![Expenses Screenshot](assets/expenses_screenshot.jpg)
+![Expenses Screenshot](server/assets/expenses.png)
 
-#### Dark/Light Mode
-![Dark Mode Screenshot](assets/dark_mode_screenshot.jpg)
-![Light Mode Screenshot](assets/light_mode_screenshot.jpg)
+#### Dark Mode
+![Dark Mode Screenshot](assets/dashboard-dark.png)
+
 
 ## Tech Stack
 
