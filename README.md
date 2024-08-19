@@ -43,7 +43,7 @@ This project includes the following pages and features:
 ### Previews:
 
 #### Dashboard
-![Dashboard Screenshot](assets/dashboard_screenshot.jpg)
+![Dashboard Screenshot](assets/dashboard-light.png)
 
 #### Inventory
 ![Inventory Screenshot](assets/inventory_screenshot.jpg)
