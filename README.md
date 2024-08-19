@@ -61,7 +61,7 @@ This project includes the following pages and features:
 ![Expenses Screenshot](server/assets/expenses.png)
 
 #### Dark Mode
-![Dark Mode Screenshot](assets/dashboard-dark.png)
+![Dark Mode Screenshot](server/assets/dashboard-dark.png)
 
 
 ## Tech Stack
