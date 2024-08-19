@@ -1,11 +1,12 @@
 
 # Inventory Management Dashboard
 
-This is a comprehensive guide to building and deploying a full-stack Inventory Management Dashboard Application using modern web technologies. The project is built using **Next.js** for the frontend, with **Redux Toolkit** for state management and **Tailwind CSS** for styling. The backend is powered by **Node.js** with **Prisma** ORM for database interaction. The entire application is deployed on **AWS**, leveraging various services like RDS, EC2, API Gateway, Amplify, and S3.
+This project involves building and deploying a full-stack Inventory Management Dashboard Application using modern web technologies. The application is developed with Next.js for the frontend, incorporating Redux Toolkit for state management and Tailwind CSS for styling. The backend is powered by Node.js with Prisma ORM for seamless database interactions. The entire application is deployed on AWS, utilizing services such as RDS, EC2, API Gateway, Amplify, and S3 to ensure scalability and reliability.
 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Demo](#demo)
 - [Tech Stack](#tech-stack)
 - [Frontend](#frontend)
 - [Backend](#backend)
@@ -23,6 +24,45 @@ This project is a full-stack inventory management dashboard that provides the fo
 - **State Management**: Implemented using Redux Toolkit and Redux Toolkit Query for efficient state and data fetching management.
 - **Scalable Backend**: Powered by Node.js and Prisma ORM, ensuring smooth database interactions.
 - **AWS Integration**: Deployed on AWS using a variety of services to ensure scalability, reliability, and cost-efficiency.
+
+## Demo
+
+This project includes the following pages and features:
+
+### Available Pages:
+- **Dashboard**: Overview of inventory status and key metrics.
+- **Inventory**: Detailed management of inventory items.
+- **Products**: Manage and add new products.
+- **Users**: User management interface.
+- **Settings**: Application settings and configurations.
+- **Expenses**: Track and manage expenses.
+
+### Dark/Light Mode:
+- The application supports both dark and light modes for better user experience.
+
+### Previews:
+
+#### Dashboard
+![Dashboard Screenshot](assets/dashboard_screenshot.jpg)
+
+#### Inventory
+![Inventory Screenshot](assets/inventory_screenshot.jpg)
+
+#### Products
+![Products Screenshot](assets/products_screenshot.jpg)
+
+#### Users
+![Users Screenshot](assets/users_screenshot.jpg)
+
+#### Settings
+![Settings Screenshot](assets/settings_screenshot.jpg)
+
+#### Expenses
+![Expenses Screenshot](assets/expenses_screenshot.jpg)
+
+#### Dark/Light Mode
+![Dark Mode Screenshot](assets/dark_mode_screenshot.jpg)
+![Light Mode Screenshot](assets/light_mode_screenshot.jpg)
 
 ## Tech Stack
 
