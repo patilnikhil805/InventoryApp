@@ -156,7 +156,7 @@ npm start
 - Utilize **API Gateway** for managing APIs.
 - Store static assets in **S3**.
 
-Refer to the [AWS commands](https://github.com/ed-roh/inventory-management-dashboard/aws-commands.md) for detailed deployment steps.
+
 
 ## Deployment
 
@@ -204,12 +204,4 @@ Refer to the [AWS commands](https://github.com/ed-roh/inventory-management-dashb
 - [Recharts](https://recharts.org/en-US/api)
 - [Material UI Data Grid](https://mui.com/x/react-data-grid/)
 
-### Code Samples
-- [Completed Code](https://github.com/ed-roh/inventory-management-dashboard)
-- [Tailwind Config](https://github.com/ed-roh/inventory-management-dashboard/blob/main/tailwind.config.ts)
-- [Redux Store File](https://github.com/ed-roh/inventory-management-dashboard/blob/main/src/app/store.ts)
-- [Seed Files](https://github.com/ed-roh/inventory-management-dashboard/blob/main/prisma/seed.ts)
-- [Seed Data Files](https://github.com/ed-roh/inventory-management-dashboard/blob/main/prisma/seed-data.ts)
-- [Data Model Diagram](https://drawsql.app/teams/team-3023/diagrams/inventory-management)
-- [Prisma Schema File](https://github.com/ed-roh/inventory-management-dashboard/blob/main/prisma/schema.prisma)
-- [AWS Commands](https://github.com/ed-roh/inventory-management-dashboard/blob/main/aws-commands.md)
+
